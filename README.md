@@ -148,5 +148,3 @@ The project can be extended with the following features:
 - Include exported charts and a sample report in the repository.
 - Improve reproducibility by using relative file paths and documenting dataset sources.
 ---
-
-**Disclaimer:** This project is intended for educational and analytical purposes. Any conclusions drawn from the data should be interpreted in the context of the dataset's quality, coverage, and limitations.
